@@ -1,0 +1,28 @@
+
+#title img{
+    display: inline !important;
+    max-width: 50px !important;
+}
+
+#title h2{
+    display: inline;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif !important;
+}
+
+#title{
+    text-align: center;
+}
+
+span{
+    color: red;
+}
+.footer{
+    margin-top: 4rem;
+    font-size: 1.5rem;
+    text-align: center;
+    padding-bottom: 1rem;
+}
+
+.body{
+    background-color: #323232;
+}
